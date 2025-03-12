@@ -1,2 +1,2 @@
 # Medical-diagnosis-using-AI
-A web application created to diagnose selected ailments 
+A web application designed to diagnose selected ailments 
